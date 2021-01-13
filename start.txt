@@ -1,4 +1,4 @@
-Hi, Git. Changing
-Adding text
+Hi, Git. Changing title
+some interesting stuff goes here
 Copyright 2020 Git.Training
-adding the name of the admin: Halina
+adding the name of the admin: Halina Chekan
