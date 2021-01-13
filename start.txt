@@ -1,3 +1,4 @@
 Hi, Git. Changing
 Adding text
 Copyright 2020 Git.Training
+adding the name of the admin: Halina
