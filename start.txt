@@ -1,4 +1,4 @@
-Hi, Git. Changing
-Adding text
+A Very Respectful Website
+I'm nor sure what will go here, but I'm sure it will be nice
 Copyright 2020 Git.Training
-adding the name of the admin: Halina
+adding the name of the admin: Chekan Halina
