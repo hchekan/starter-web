@@ -1,7 +1,7 @@
 Hi, Git. Changing title
 These changes are from the feature branch bigtrouble
 some interesting stuff goes here
-Copyright 2020 Git.Training
+Copyright 2020 Git.Training, All rights reserved.
 adding the name of the admin: Chekan Halina VALERA
 #THANKS
   All my friends!<3
