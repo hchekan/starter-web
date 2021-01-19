@@ -1,8 +1,8 @@
 Hi, Git. Changing title
-Some silly changes from main branch
+These changes are from the feature
+branch bigtrouble
 some interesting stuff goes here
-Copyright 2020 Silly Changes on Main
-Just stuff for now
-Not sure if we should replace this or not
-#THANKS (Halina)
+Copyright 2020 Git.Training
+adding the name of the admin: Chekan Halina
+#THANKS
   All my friends!<3
