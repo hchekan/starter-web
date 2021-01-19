@@ -1,4 +1,5 @@
 Hi, Git. Changing title
+Adding changes before rebasing conflicts
 some interesting stuff goes here
 Copyright 2020 Git.Training
 adding the name of the admin: Chekan Halina
