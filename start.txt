@@ -2,3 +2,5 @@ Hi, Git. Changing title
 some interesting stuff goes here
 Copyright 2020 Git.Training
 adding the name of the admin: Chekan Halina
+#THANKS
+  All my friends!<3
