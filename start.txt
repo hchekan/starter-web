@@ -1,7 +1,8 @@
 Hi, Git. Changing title
-Adding changes before rebasing conflicts
+Some silly changes from main branch
 some interesting stuff goes here
-Copyright 2020 Git.Training
-adding the name of the admin: Chekan Halina
-#THANKS
+Copyright 2020 Silly Changes on Main
+Just stuff for now
+Not sure if we should replace this or not
+#THANKS (Halina)
   All my friends!<3
