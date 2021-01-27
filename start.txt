@@ -1,6 +1,6 @@
-Hi, Git. Changing title
+Hi, Git. Updating for Stash Example
 These changes are from the feature branch bigtrouble
-some interesting stuff goes here
+some interesting stuff goes here. Adding more content here
 Copyright 2020 Git.Training, All rights reserved.
 adding the name of the admin: Chekan Halina VALERA
 #THANKS
